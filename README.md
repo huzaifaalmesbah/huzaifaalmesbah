@@ -17,14 +17,14 @@ Hello! I am a freelance web developer. I have been working in this field since 2
 
 ## 📊 Github Stats  
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huzaifaalmesbah&show_icons=true&hide_border=true" />
-	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifaalmesbah&theme=github&hide_border=true" />
+	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=huzaifaalmesbah&show_icons=true" />
+	<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifaalmesbah&theme=github&hide_border=true" />
 </div>  
 
 ## 🌎 Top Languages
 <div align="center">
-	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifaalmesbah" />
-	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifaalmesbah" />
+	<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifaalmesbah" />
+	<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifaalmesbah" />
 </div>
 
 
