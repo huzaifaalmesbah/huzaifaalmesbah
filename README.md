@@ -1,42 +1,38 @@
 ## Hello, I'm Huzaifa Al Mesbah
-👨‍💻 I’m currently working on Wordpress  
-✍️ I’m currently learning  JavaScript  
+👨‍💻 I’m currently working on Wordpress Block Theme
 
 ## 👨🏿‍💻 About Me
 Hello! I am a freelance web developer. I have been working in this field since 2020 and have developed expertise in various technologies such as WordPress, Elementor, JavaScript, PHP, HTML5, CSS3, and Bootstrap.
 
 
-## 💁🏿‍♂️ My Skills  
-🟢 WordPress <br>
-🟢 Elementor <br>
-🟢 JavaScript <br> 
-🟢 PHP <br>
-🟢 HTML5 / CSS3 / Bootstrap <br>
-
-
-
 ## 🌎 Connect with me  
-<div align="center">
-<a href="https://github.com/huzaifaalmesbah" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/huzaifaalmesbah" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/huzaifah4m" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/huzaifaalmesbah" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/huzaifaalmesbah" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/huzaifaalmesbah" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+[<img align="left" alt="Huzaifa.Im" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="color: blue;" />][website]
+[<img align="left" alt="huzaifaalmesbah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="huzaifaalmesbah | WordPress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
+[<img align="left" alt="huzaifaalmesbah | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="huzaifaalmesbah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="huzaifaalmesbah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="huzaifaalmesbah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huzaifaalmesbah&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📊 Github Stats  
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huzaifaalmesbah&show_icons=true&hide_border=true" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifaalmesbah&theme=github&hide_border=true" />
+</div>  
+
+## 🌎 Top Languages
+<div align="center">
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifaalmesbah" />
+	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifaalmesbah" />
+</div>
+
+
+[website]: https://huzaifa.im
+[facebook]: https://web.facebook.com/huzaifanow
+[wordpress]: https://profiles.wordpress.org/huzaifaalmesbah
+[twitter]: https://twitter.com/huzaifaalmesbah
+[youtube]: https://www.youtube.com/@huzaifaalmesbah
+[instagram]: https://www.instagram.com/huzaifaalmesbah
+[linkedin]: https://www.linkedin.com/in/huzaifaalmesbah
+
