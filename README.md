@@ -15,6 +15,11 @@ Hello! I am a freelance web developer. I have been working in this field since 2
 [<img align="left" alt="huzaifaalmesbah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
+## ℋ Holopin Badges  
+<div align="center">
+	<img width="90%" src="https://holopin.me/huzaifaalmesbah" />
+</div>
+
 ## 📊 Github Stats  
 <div align="center">
 	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=huzaifaalmesbah&show_icons=true" />
