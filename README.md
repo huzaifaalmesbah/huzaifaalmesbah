@@ -49,6 +49,18 @@ const wpContributions = {
   community: [
     "👨‍🏫 Core Table Lead – WordCamp Sylhet 2024",
     "💜 Yoast Care Fund Recipient"
+  ],
+  
+  // WordPress Journey Timeline
+  journey: [
+    { 2023: "Start WordPress Core Contributor (WP 6.3) & Twenty Twenty-Four theme contributor" },
+    { 2021: "Built news sites with WP, Facebook Instant Articles integration" },
+    { 2020: "Professional WordPress Developer" },
+    { 2019: "Freelance WordPress Developer on Fiverr" },
+    { 2018: "First WordPress theme for school management" },
+    { 2017: "WordPress customizer & designer (local market)" },
+    { 2016: "Learned PHP, HTML, JS, CSS & WordPress basics" },
+    { 2015: "First WordPress blog" }
   ]
 };
 ```
