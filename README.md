@@ -11,6 +11,8 @@ WordPress developer from Bangladesh and a Core contributor. I build plugins and 
 - Noteworthy Contributor to WordPress 6.4, 6.5, 7.0 and 7.1
 - Contributor to the Twenty Twenty-Four and Twenty Twenty-Five themes
 - Panelist at [WordCamp Sylhet 2026](https://sylhet.wordcamp.org/2026/speaker/huzaifa-al-mesbah/): Contributor Showcase: Representing Bangladesh
+- Speaker at [Campus Connect Rajshahi 2025](https://events.wordpress.org/campusconnect/2025/rajshahi/speaker/huzaifa-al-mesbah/): How to Start Your WordPress Contribution Journey
+- Volunteer at [Campus Connect Southeast University 2026](https://events.wordpress.org/campusconnect/2026/southeast-university-dhaka/), helping run a free WordPress workshop for students
 - Contributor Day table lead at WordCamp Dhaka, Sylhet and Rajshahi
 
 See my [live contribution stats](https://huzaifa.bd/).
